@@ -1,15 +1,13 @@
-# first_project
+# Beautiful Login Page In Flutter
 
-A new Flutter project.
+Create a login and signup page in flutter.
+This amazing app is provided in open source.So, helpful contributions are highly appreciated.
 
-## Getting Started
+## ScreenShots
 
 This project is a starting point for a Flutter application.
+![WhatsApp Image 2023-08-14 at 19 46 43](https://github.com/simplyypranjal/Login-UI-flutter/assets/139492865/79c9726d-dc71-4636-a10a-072e826e2964)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
